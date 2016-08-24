@@ -1,0 +1,13 @@
+INSTUPEnemigos
+/home/usuario/workspace/proyecto_videojuegos/GRUPO_BATMAN_55/proyecto/Enemigos.py
+INFOS:&&1|1|2|0&&2|3|2|1&&3|4|2|5&&3|6|2|5&&3|7|2|5&&3|8|2|5&&2|9|2|1&&3|8|2|10
+Enemy=1
+x=6
+screen=4
+y=7
+imagen=8
+Enemigos=2
+__init__=3
+Enemy.Ultra_draw_le=10
+Ultra_draw_le=9
+Enemy.__init__=5

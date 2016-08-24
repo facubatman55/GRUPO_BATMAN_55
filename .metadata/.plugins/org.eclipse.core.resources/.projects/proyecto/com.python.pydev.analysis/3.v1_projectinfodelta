@@ -1,0 +1,9 @@
+INSTUPconstantes
+/home/usuario/workspace/proyecto_videojuegos/GRUPO_BATMAN_55/proyecto/constantes.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&3|6|2|0
+ALTURA_PANTALLA=6
+NEGRO=1
+BLANCO=3
+AZUL=4
+ANCHO_PANTALLA=5
+constantes=2
